@@ -12,3 +12,7 @@ the sintaxe and comments in the code is messy but understandable, I need to focu
 03/03/2024
 I learned a lot of specific things today, some i know i will never use, but is always good to learn something new, i need to see some of the things working
 in diferents situations, just that for today (Registration Forms).
+
+10/03/2024
+Most of my week i was studying for tests that is why there is good gap of days in the platform, anyway in the ColoredMarkers was just a review of basic things
+I think that this first part is just realy basic stuff so I'm doing just for the certification.
