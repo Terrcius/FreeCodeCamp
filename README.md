@@ -16,3 +16,6 @@ in diferents situations, just that for today (Registration Forms).
 10/03/2024
 Most of my week i was studying for tests that is why there is good gap of days in the platform, anyway in the ColoredMarkers was just a review of basic things
 I think that this first part is just realy basic stuff so I'm doing just for the certification.
+
+So, i will put the studyes in freecodecamp apart for some time, because I got a job and I don't have time to spend in this course!
+Maybe at some point I will return to finish it.
